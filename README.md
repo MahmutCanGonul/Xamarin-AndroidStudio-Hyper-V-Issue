@@ -30,13 +30,15 @@ Solution:
 --->>or<<----
                
 
-Open Commend line and write this code: 
+Open Commend line and write this code, it is help disable Hyper-V: 
 
              bcdedit /set hypervisorlaunchtype off
 
 
+NOTE: If you want enable Hyper-V, write this code in your command line: 
 
 
+               bcdedit /set hypervisorlaunchtype auto 
 
 
 
