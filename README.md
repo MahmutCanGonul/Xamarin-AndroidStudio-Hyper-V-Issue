@@ -1,5 +1,5 @@
-# Xamarin-Hyper-V-Issue
-Solution Xamarin Hyper-V Issue
+# Xamarin-AndroidStudio-Hyper-V-Issue
+Solution Xamarin AndroidStudio Hyper-V Issue
 
 
 If you use Xamarin or Android Studio and you see this error:  
