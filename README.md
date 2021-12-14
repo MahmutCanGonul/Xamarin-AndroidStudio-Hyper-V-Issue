@@ -14,7 +14,6 @@ If you use Xamarin or Android Studio and you see this error:
 
 Solution:
 
-
 💣Hyper-V is another Virtualisation technique just like Intel HAXM. You cannot use both at the same time. Hence, It is necessary to Disable Hyper-V. You can follow these steps to disable Hyper-V 
 
 ▶️Go to Control Panel -> Programs and Features -> Turn Windows features on or off
@@ -25,6 +24,24 @@ Solution:
 
 
 ![image](https://user-images.githubusercontent.com/75094927/145982188-8d0a65c2-0a08-48c6-9dc2-dcf2c03f87af.png)
+
+
+
+--->>or<<----
+               
+
+Open Commend line and write this code: 
+
+             bcdedit /set hypervisorlaunchtype off
+
+
+
+
+
+
+
+
+
 
 
 
